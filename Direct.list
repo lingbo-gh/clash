@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+#Plex远程访问
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,v4.plex.tv
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
